@@ -3,13 +3,13 @@ project:
 
 website:
   title: "Gean Damaceno"
-  favicon: imagem_topo/logo_index.png
+  favicon: logo_indexx.png
   navbar:
     title: "Gean Damaceno"
     background: "#2c3e50"
     left:
       - text: "Home"
-        file: site.qmd
+        file: index.qmd
       - text: "About"
         file: about.qmd
       - text: "Research"
@@ -62,6 +62,7 @@ website:
       - icon: envelope
         text: "Contact"
         file: contato.qmd
+
   page-footer:
     right: "This site was made with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; Gean Damaceno, 2024"

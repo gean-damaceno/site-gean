@@ -83,3 +83,10 @@ Visualização geográfica de dados espaciais
 })();
 </script>
 ```
+
+```{r, echo = FALSE, eval = FALSE}
+#    cd "C:\Meus Documentos\site_gean"
+   #git add .
+   #git commit -m "sua mensagem"
+   #git push
+```

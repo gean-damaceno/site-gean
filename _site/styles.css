@@ -1,0 +1,398 @@
+/* CSS otimizado para performance máxima */
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+  --navbar-bg: #000000;
+  --navbar-text: #ffffff;
+  --sidebar-bg: #f8f9fa;
+  --sidebar-text: #212529;
+  --border-color: #dee2e6;
+}
+
+[data-theme=".quarto-dark"] {
+  --bg-primary: #0d1117;
+  --bg-secondary: #161b22;
+  --text-primary: #ffffff;
+  --text-secondary: #b0b0b0;
+  --navbar-bg: #000000;
+  --navbar-text: #ffffff;
+  --sidebar-bg: #161b22;
+  --sidebar-text: #ffffff;
+  --border-color: #30363d;
+}
+
+/* Navbar cinza elegante - BARRA HORIZONTAL */
+.navbar, .navbar-expand-lg, .navbar-dark, .navbar-brand, .navbar-nav, .navbar-nav .nav-link {
+  background: linear-gradient(135deg, #374151 0%, #4b5563 100%) !important;
+  color: #ffffff !important;
+  border: none !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Navbar com altura restaurada */
+.navbar {
+  min-height: 120px !important;
+  height: 120px !important;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5) !important;
+  border-bottom: 1px solid #333333 !important;
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Navbar fixa com cinza elegante - BARRA HORIZONTAL */
+.navbar, .navbar.fixed-top, .quarto-navbar {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1030;
+  background: linear-gradient(135deg, #374151 0%, #4b5563 100%) !important;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1) !important;
+  padding: 0 2rem;
+  font-family: 'Inter', sans-serif;
+  min-height: 70px;
+}
+
+/* Links da navbar em branco */
+.navbar a, .navbar .nav-link, .navbar .navbar-title, .navbar .menu-text {
+  color: #ffffff !important;
+}
+
+/* Caixinhas individuais totalmente transparentes - FORÇADO */
+.navbar .nav-link, 
+.navbar .navbar-brand, 
+.navbar .dropdown-menu,
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-nav .navbar-nav .nav-link,
+.navbar .dropdown-item,
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+  background: transparent !important;
+  background-color: transparent !important;
+  color: #ffffff !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Hover das caixinhas sem cor de fundo - FORÇADO */
+.navbar .nav-link:hover, 
+.navbar .navbar-brand:hover,
+.navbar .navbar-nav .nav-link:hover,
+.navbar .dropdown-item:hover {
+  background: transparent !important;
+  background-color: transparent !important;
+  color: #06a9c3 !important;
+}
+
+/* Remover qualquer cor de fundo da navbar que possa estar afetando */
+.navbar .navbar-nav {
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+/* Garante que o toggle de tema afete o fundo e o texto do site de forma harmônica */
+body, html, .quarto-container, .quarto-content, #quarto-content, main, section, .content, .page-columns, .page-rows-contents, .page-navbar {
+  background-color: #e6f3ff !important; /* Azul claro - mude esta cor para personalizar */
+}
+
+/* Comentado para usar a cor personalizada acima */
+/* .quarto-dark body, .quarto-dark html, .quarto-dark .quarto-container, .quarto-dark .quarto-content, .quarto-dark #quarto-content, .quarto-dark main, .quarto-dark section, .quarto-dark .content, .quarto-dark .page-columns, .quarto-dark .page-rows-contents, .quarto-dark .page-navbar {
+  background-color: var(--bg-primary) !important;
+}
+
+.quarto-light body, .quarto-light html, .quarto-light .quarto-container, .quarto-light .quarto-content, .quarto-light #quarto-content, .quarto-light main, .quarto-light section, .quarto-light .content, .quarto-light .page-columns, .quarto-light .page-rows-contents, .quarto-light .page-navbar {
+  background-color: var(--bg-primary) !important;
+} */
+
+/* Sidebar */
+.sidebar {
+  background-color: var(--sidebar-bg) !important;
+  color: var(--sidebar-text) !important;
+}
+
+/* Links e texto - sem !important para permitir o tema */
+a, h1, h2, h3, h4, h5, h6, p, li, td, th {
+  color: var(--text-primary);
+}
+
+a:hover {
+  color: var(--text-secondary);
+}
+
+/* Footer */
+.page-footer {
+  background-color: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+  padding: 20px 0;
+}
+
+/* ---------- MODO CLARO ---------- */
+body.quarto-light pre, body.quarto-light code, body.quarto-light .sourceCode {
+  background-color: #E9E9EF !important;
+  color: #212129 !important;
+}
+body.quarto-light .sourceCode span.kw { color: #212129; }
+body.quarto-light .sourceCode span.st { color: #00A553; }
+body.quarto-light .sourceCode span.co { color: #494957; }
+body.quarto-light .sourceCode span.an { color: #494957; }
+body.quarto-light .sourceCode span.fu { color: #009BCB; }
+body.quarto-light .sourceCode span.at { color: #CA2AA3; }
+body.quarto-light .sourceCode span.cf { color: #B55A00; }
+body.quarto-light .sourceCode span.er { color: #DE2118; }
+body.quarto-light .sourceCode span.va { color: #212129; }
+body.quarto-light .sourceCode span.dt { color: #DE2118; }
+body.quarto-light .sourceCode span.dv { color: #DE2118; }
+body.quarto-light .sourceCode span.cn { color: #F46000; }
+body.quarto-light .sourceCode span.op { color: #494957; }
+body.quarto-light .sourceCode span.im { color: #CA2AA3; }
+body.quarto-light .sourceCode span.re { color: #009BCB; }
+
+/* ---------- MODO ESCURO ---------- */
+body.quarto-dark pre, body.quarto-dark code, body.quarto-dark .sourceCode {
+  background-color: #000D33 !important;
+  color: #FAFBFF !important;
+}
+body.quarto-dark .sourceCode span.kw { color: #FAFBFF; }
+body.quarto-dark .sourceCode span.st { color: #09CE7C; }
+body.quarto-dark .sourceCode span.co { color: #E4EAFF; }
+body.quarto-dark .sourceCode span.an { color: #E4EAFF; }
+body.quarto-dark .sourceCode span.fu { color: #02B3E3; }
+body.quarto-dark .sourceCode span.at { color: #FFC843; }
+body.quarto-dark .sourceCode span.cf { color: #FF6B00; }
+body.quarto-dark .sourceCode span.er { color: #FF4239; }
+body.quarto-dark .sourceCode span.va { color: #FAFBFF; }
+body.quarto-dark .sourceCode span.dt { color: #FF4239; }
+body.quarto-dark .sourceCode span.dv { color: #FF4239; }
+body.quarto-dark .sourceCode span.cn { color: #FF6B00; }
+body.quarto-dark .sourceCode span.op { color: #E4EAFF; }
+body.quarto-dark .sourceCode span.im { color: #FFC843; }
+body.quarto-dark .sourceCode span.re { color: #02B3E3; }
+
+.navbar .navbar-brand, .navbar .navbar-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #fff !important;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.navbar .navbar-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #fff !important;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.5rem 0.7rem;
+  margin: 0;
+  background: none !important;
+  border-radius: 4px;
+  transition: color 0.2s, background 0.2s;
+  display: inline-block;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link.active {
+  color: #FFC843 !important;
+  background: #181818 !important;
+  border-bottom: 3px solid #FFC843;
+}
+
+.navbar .dropdown-menu {
+  background: #181818 !important;
+  border-radius: 0 0 8px 8px;
+  border: none;
+  min-width: 220px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+}
+
+.navbar .dropdown-item {
+  color: #fff !important;
+  font-size: 1rem;
+  padding: 0.75rem 1.5rem;
+  transition: background 0.2s, color 0.2s;
+  background: none !important;
+}
+
+.navbar .dropdown-item:hover {
+  background: #222 !important;
+  color: #FFC843 !important;
+}
+
+/* Ajuste do conteúdo para navbar fixa */
+body, .quarto-container, main, #quarto-content {
+  padding-top: 50px !important;
+}
+
+/* Deixa o sumário colado à esquerda */
+#quarto-margin-sidebar {
+  position: fixed !important;
+  top: 100px !important; /* ajuste conforme o padding-top do body/navbar */
+  left: 0 !important;
+  right: auto !important;
+  margin: 0 !important;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem !important;
+  width: 180px !important;
+  background: #f9f9f9 !important;
+  border-right: 1px solid #eee !important;
+  border-left: none !important;
+  z-index: 1001;
+}
+
+/* Reduz a margem do conteúdo principal */
+#quarto-content {
+  margin-left: 50px !important;
+}
+
+#quarto-margin-sidebar {
+  margin-top: 60px !important; /* ajuste esse valor conforme a altura da sua navbar */
+}
+#quarto-margin-sidebar {
+  margin-left: 40px !important;   /* Aumente para mover mais para a direita */
+}
+
+/* Garante que o nome na navbar nunca seja clicável */
+.navbar a.navbar-brand,
+.navbar a.navbar-title,
+a.navbar-brand,
+a.navbar-title {
+  pointer-events: none !important;
+  cursor: default !important;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+/* Aumenta o tamanho e deixa azul o nome na navbar */
+/*.navbar .navbar-title, .navbar .navbar-brand {
+  font-size: 2.2rem !important;
+  color: #007400 !important; /* Azul elegante */
+/*  font-weight: 200 !important;
+  letter-spacing: 2px;
+}
+/* Dropdown da navbar abre ao passar o mouse */
+.navbar .dropdown:hover .dropdown-menu {
+  display: block !important;
+  margin-top: 0; /* Remove o salto do menu */
+}
+
+/* ===== CARROSSEL AUTOMÁTICO ===== */
+.auto-carousel {
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  padding: 0;
+}
+
+.carousel-wrapper {
+  position: relative;
+  width: 100%;
+  min-height: 300px;
+  border-radius: 0;
+  overflow: hidden;
+  box-shadow: none;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-slide.active {
+  opacity: 1;
+}
+
+.carousel-slide img,
+.carousel-image {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  object-fit: contain;
+  background-color: #f8f9fa;
+  display: block;
+}
+
+.slide-caption {
+  display: none; /* Esconde as legendas */
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .carousel-wrapper {
+    min-height: 200px;
+    border-radius: 0;
+  }
+  
+  .carousel-slide img,
+  .carousel-image {
+    max-height: 200px;
+  }
+}
+
+/* Barra lateral azul marinho */
+.sidebar, .sidebar-panel, .sidebar-panel-container {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%) !important;
+  color: #ffffff !important;
+  border: none !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Links da barra lateral */
+.sidebar .sidebar-menu-container .sidebar-menu .sidebar-item .sidebar-link {
+  color: #ffffff !important;
+  transition: all 0.3s ease;
+}
+
+.sidebar .sidebar-menu-container .sidebar-menu .sidebar-item .sidebar-link:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+  color: #ffffff !important;
+  transform: translateX(5px);
+}
+
+/* Fundo da página com cinza muito claro */
+body, .page-background, .quarto-body {
+  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 50%, #e2e8f0 100%) !important;
+  background-attachment: fixed !important;
+  min-height: 100vh;
+}
+
+/* Conteúdo principal com fundo cinza muito claro */
+.main-content, .page-content, .quarto-content {
+  background: rgba(248, 250, 252, 0.9) !important;
+  backdrop-filter: blur(5px);
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  margin: 20px;
+  padding: 30px;
+}
+
+/* Navbar preto puro, se eu quiser mudar a cor, é só alterar*/
+.navbar {
+  background: #008080 !important; /* Esta é a linha mais importante para alterar */
+  min-height: 120px;
+}
+
+/* Navbar verde */
+/*.navbar {
+  background: linear-gradient(135deg, #2d5a27 0%, #3a7d3a 100%) !important;
+  min-height: 120px;
+}

@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Gean Damaceno"
+  favicon: imagem_topo/logo_index.png
   navbar:
     title: "Gean Damaceno"
     background: "#2c3e50"
@@ -85,8 +86,3 @@ format:
     include-in-header:
       text: |
         <meta name="google-site-verification" content="d9TToDBNl74cKQl_ITRe8i-G-DPZ0UGXhbXVq2Zt7lE" />
-    include-before-body:
-      text: |
-        <div style="text-align:center; margin: 20px 0;">
-          <img src="imagem_topo/logo_index.png" alt="Slogan do site" style="max-width: 100%; height: auto;">
-        </div>

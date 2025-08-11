@@ -85,6 +85,7 @@ Visualização geográfica de dados espaciais
 ```
 
 ```{r, echo = FALSE, eval = FALSE}
+ #### PowerShell
 #    cd "C:\Meus Documentos\site_gean"
    #git add .
    #git commit -m "sua mensagem"

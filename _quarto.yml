@@ -65,6 +65,10 @@ website:
     right: "This site was made with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; Gean Damaceno, 2024"
 
+# GitHub Pages configuration
+github-pages:
+  output-dir: docs
+
 format:
   html:
     theme:
@@ -78,10 +82,6 @@ format:
     embed-resources: false
     compress: true
     cache: true
-
-
-# GitHub Pages configuration
-github-pages:
-  output-dir: docs
-
-
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="d9TToDBNl74cKQl_ITRe8i-G-DPZ0UGXhbXVq2Zt7lE" />

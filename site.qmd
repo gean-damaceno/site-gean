@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Gean's Site"
+title: "Welcome to Gean's Site - Online"
 ---
 
 ::: {.auto-carousel}

@@ -1,5 +1,7 @@
 ---
-title: "Welcome to Gean's Site - GitHub Actions Test"
+title: "Welcome to Gean's Site"
+description: "Site pessoal de Gean Damaceno: análises, projetos, publicações e mais. Encontre informações sobre Gean, Damaceno, Gean Damaceno, home, principal."
+keywords: [Gean Damaceno, Damaceno, Gean, gean damaceno, home, principal]
 ---
 
 ::: {.auto-carousel}

@@ -1,53 +1,12 @@
 ---
-title: "Events"
+title: "Networking"
 ---
 
-# Events & Conferences
+# Site em Construção 🚧
 
-## Upcoming Events
+Esta seção está sendo desenvolvida. Em breve você encontrará informações sobre:
 
-### 2024
-- **Brazilian Statistical Association Meeting** - September 2024
-- **International Conference on Spatial Statistics** - October 2024
-- **R Conference Brazil** - November 2024
+- **Events**: Eventos e conferências
+- **Collaborations**: Colaborações e parcerias
 
-## Past Events
-
-### 2023
-- **SINAPE** - Brazilian Symposium on Probability and Statistics
-- **R Brasil Conference** - R programming and statistics
-- **GIS Conference** - Geographic Information Systems
-
-### 2022
-- **International Statistical Institute Congress**
-- **Latin American Statistical Conference**
-- **Workshop on Spatial Epidemiology**
-
-## Presentations
-
-### Conference Presentations
-- "Spatial Analysis of Disease Patterns" - SINAPE 2023
-- "Time Series Forecasting in R" - R Conference 2023
-- "GIS Applications in Public Health" - GIS Conference 2023
-
-### Workshops
-- "Introduction to Spatial Statistics" - UFLA, 2023
-- "R for Data Science" - Workshop Series, 2022
-- "Statistical Visualization" - Training Course, 2022
-
-## Teaching & Outreach
-
-### Courses Taught
-- Statistical Methods for Spatial Data
-- Introduction to R Programming
-- Data Visualization Techniques
-- Applied Multivariate Analysis
-
-### Guest Lectures
-- "Modern Statistical Computing" - UFLA Statistics Department
-- "Spatial Statistics in Practice" - Graduate Seminar Series
-- "Reproducible Research" - Research Methods Workshop
-
----
-
-*This page lists my participation in conferences, workshops, and teaching activities.* 
+Volte em breve para ver as atualizações! 

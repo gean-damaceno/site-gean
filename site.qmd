@@ -1,7 +1,5 @@
 ---
-title: "Gean Damaceno - Estatístico e Cientista de Dados"
-description: "Site oficial de Gean Pereira Damaceno - Estatístico, Cientista de Dados e Pesquisador. Projetos, publicações, análises e mais."
-keywords: [Gean Damaceno, Gean Pereira Damaceno, Estatístico, Cientista de Dados, Data Science, Análise Estatística, Brasil, home, principal]
+title: "Gean Damaceno"
 ---
 
 ::: {.auto-carousel}

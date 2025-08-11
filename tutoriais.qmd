@@ -1,0 +1,231 @@
+---
+title: "Tutorials"
+---
+
+## Tutoriais e Guias
+
+### Tutoriais de R
+
+#### Introdução ao R
+**Descrição**: Guia completo para iniciantes em R
+**Duração**: 8 horas
+**Nível**: Iniciante
+
+**Conteúdo**:
+- Instalação e configuração
+- Estruturas de dados
+- Manipulação de dados
+- Visualizações básicas
+- Análise estatística
+
+**Recursos**:
+- Código comentado
+- Exercícios práticos
+- Dados de exemplo
+- Soluções
+
+#### Análise Estatística com R
+**Descrição**: Técnicas avançadas de análise estatística
+**Duração**: 12 horas
+**Nível**: Intermediário
+
+**Tópicos**:
+- Regressão linear e múltipla
+- Análise de variância
+- Testes não paramétricos
+- Análise de correlação
+- Validação de modelos
+
+#### Visualização com ggplot2
+**Descrição**: Criação de gráficos profissionais
+**Duração**: 6 horas
+**Nível**: Intermediário
+
+**Conteúdo**:
+- Gramática dos gráficos
+- Estéticas e geometrias
+- Temas e cores
+- Gráficos complexos
+- Exportação
+
+### Tutoriais de Análise Espacial
+
+#### Introdução ao QGIS
+**Descrição**: Primeiros passos com QGIS
+**Duração**: 10 horas
+**Nível**: Iniciante
+
+**Tópicos**:
+- Interface do QGIS
+- Carregamento de dados
+- Simbologia e legendas
+- Layout de impressão
+- Plugins úteis
+
+#### Análise Espacial com R
+**Descrição**: Análise geográfica usando R
+**Duração**: 15 horas
+**Nível**: Avançado
+
+**Conteúdo**:
+- Pacotes espaciais
+- Autocorrelação espacial
+- Interpolação
+- Análise de clusters
+- Mapeamento
+
+#### Geoestatística
+**Descrição**: Técnicas de geoestatística
+**Duração**: 20 horas
+**Nível**: Avançado
+
+**Técnicas**:
+- Variografia
+- Krigagem ordinária
+- Krigagem universal
+- Validação cruzada
+- Mapeamento de incerteza
+
+### Tutoriais de Shiny
+
+#### Fundamentos do Shiny
+**Descrição**: Criação de aplicações web interativas
+**Duração**: 16 horas
+**Nível**: Intermediário
+
+**Conteúdo**:
+- Estrutura do Shiny
+- Interface de usuário
+- Reactividade
+- Controles de entrada
+- Gráficos interativos
+
+#### Dashboards Avançados
+**Descrição**: Dashboards profissionais
+**Duração**: 12 horas
+**Nível**: Avançado
+
+**Tópicos**:
+- Layout responsivo
+- Múltiplas páginas
+- Autenticação
+- Deploy
+- Performance
+
+#### Shiny com Dados Espaciais
+**Descrição**: Aplicações espaciais interativas
+**Duração**: 14 horas
+**Nível**: Avançado
+
+**Recursos**:
+- Mapas interativos
+- Análise espacial
+- Visualização 3D
+- Controles espaciais
+
+### Tutoriais de Python
+
+#### Análise de Dados com Python
+**Descrição**: Manipulação e análise de dados
+**Duração**: 10 horas
+**Nível**: Intermediário
+
+**Bibliotecas**:
+- pandas: Manipulação
+- numpy: Computação
+- matplotlib: Gráficos
+- seaborn: Visualização
+
+#### Machine Learning
+**Descrição**: Introdução ao machine learning
+**Duração**: 20 horas
+**Nível**: Avançado
+
+**Algoritmos**:
+- Regressão linear
+- Classificação
+- Clustering
+- Validação de modelos
+
+#### Análise Espacial com Python
+**Descrição**: Análise geográfica com Python
+**Duração**: 12 horas
+**Nível**: Avançado
+
+**Ferramentas**:
+- geopandas: Dados vetoriais
+- rasterio: Dados raster
+- folium: Mapas interativos
+- shapely: Geometrias
+
+### Tutoriais Especializados
+
+#### Séries Temporais
+**Descrição**: Análise de dados temporais
+**Duração**: 15 horas
+**Nível**: Avançado
+
+**Conteúdo**:
+- Conceitos básicos
+- Decomposição temporal
+- Modelos ARIMA
+- Previsão
+- Validação
+
+#### Estatística Robusta
+**Descrição**: Métodos resistentes a outliers
+**Duração**: 12 horas
+**Nível**: Avançado
+
+**Técnicas**:
+- Estimadores robustos
+- Testes robustos
+- Análise de influência
+- Aplicações práticas
+
+#### Visualização de Dados
+**Descrição**: Criação de visualizações efetivas
+**Duração**: 8 horas
+**Nível**: Intermediário
+
+**Princípios**:
+- Design de gráficos
+- Escolha de cores
+- Tipografia
+- Narrativa visual
+
+### Recursos dos Tutoriais
+
+#### Materiais Disponíveis
+- **Slides**: Todos os tutoriais
+- **Código**: Scripts completos
+- **Dados**: Conjuntos de exemplo
+- **Vídeos**: Gravações das aulas
+
+#### Formato
+- **Presencial**: Cursos presenciais
+- **Online**: Tutoriais virtuais
+- **Híbrido**: Combinação de formatos
+- **Self-paced**: Aprendizado individual
+
+#### Certificação
+- **Certificados**: Para todos os cursos
+- **Badges**: Conquistas específicas
+- **Portfolio**: Projetos práticos
+
+### Estatísticas
+
+#### Participantes
+- **Total**: 500+ participantes
+- **Cursos**: 30+ cursos
+- **Instituições**: 20+ instituições
+
+#### Avaliações
+- **Média**: 4.9/5 estrelas
+- **Recomendações**: 98%
+- **Retorno**: 85% dos participantes
+
+#### Impacto
+- **Projetos**: 100+ projetos desenvolvidos
+- **Publicações**: 20+ artigos baseados
+- **Colaborações**: 15+ parcerias 

@@ -1,0 +1,58 @@
+---
+title: "Collaborations"
+---
+
+# Collaborations & Partnerships
+
+## Research Collaborations
+
+### Academic Partners
+- **UFLA Statistics Department** - Joint research projects in spatial statistics
+- **Federal University of Minas Gerais** - Collaborative work in epidemiology
+- **University of São Paulo** - Time series analysis projects
+- **International Statistical Institute** - Global statistical research network
+
+### Industry Partners
+- **Public Health Agencies** - Disease surveillance and modeling
+- **Environmental Organizations** - Climate data analysis
+- **Research Institutes** - Statistical consulting and methodology development
+
+## International Collaborations
+
+### Research Networks
+- **Latin American Statistical Association** - Regional statistical research
+- **International Biometric Society** - Biostatistics and epidemiology
+- **Spatial Statistics Research Group** - Global spatial analysis network
+
+### Joint Publications
+- "Spatial Analysis of COVID-19 Patterns in Brazil" - International Journal of Epidemiology
+- "Time Series Forecasting in Public Health" - Statistics in Medicine
+- "GIS Applications in Disease Surveillance" - Spatial and Spatio-temporal Epidemiology
+
+## Student Supervision
+
+### Graduate Students
+- **Master's Students**: 3 current students in spatial statistics
+- **PhD Students**: 2 students in applied statistics
+- **Research Assistants**: 5 students in various statistical projects
+
+### Undergraduate Projects
+- **Statistical Consulting**: Supervising undergraduate research projects
+- **Data Analysis**: Mentoring students in statistical software
+- **Research Methods**: Teaching statistical methodology
+
+## Community Engagement
+
+### Professional Organizations
+- **Brazilian Statistical Association** - Active member and committee participation
+- **R Brasil Community** - Contributing to R programming community
+- **Open Science Initiative** - Promoting reproducible research
+
+### Outreach Activities
+- **Statistics Workshops** - Teaching statistical methods to researchers
+- **Data Science Training** - Professional development courses
+- **Public Lectures** - Making statistics accessible to general audience
+
+---
+
+*This page highlights my collaborative work with academic and industry partners, as well as my contributions to the statistical community.* 

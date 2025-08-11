@@ -1,0 +1,199 @@
+---
+title: "Projects"
+---
+
+## Projetos de Pesquisa
+
+### Projetos Ativos
+
+#### Monitoramento Ambiental Inteligente
+**Descrição**: Sistema de monitoramento em tempo real de variáveis ambientais
+**Período**: 2022-2025
+**Financiamento**: FAPEMIG
+**Valor**: R$ 500,000
+
+**Objetivos**:
+- Desenvolvimento de sensores IoT
+- Plataforma de coleta de dados
+- Dashboard de visualização
+- Alertas automáticos
+
+**Equipe**:
+- **Coordenador**: Gean Damaceno
+- **Pesquisadores**: 5 pesquisadores
+- **Estudantes**: 10 estudantes
+- **Técnicos**: 3 técnicos
+
+#### Análise de Vulnerabilidade Climática
+**Descrição**: Mapeamento de áreas vulneráveis a mudanças climáticas
+**Período**: 2023-2026
+**Financiamento**: CNPq
+**Valor**: R$ 300,000
+
+**Metodologia**:
+- Índice de vulnerabilidade
+- Análise multicritério
+- Modelagem espacial
+- Validação com dados históricos
+
+**Resultados Esperados**:
+- Mapas de vulnerabilidade
+- Relatórios técnicos
+- Publicações científicas
+- Ferramentas de análise
+
+### Projetos Concluídos
+
+#### Dashboards Interativos para Análise Estatística
+**Descrição**: Desenvolvimento de ferramentas interativas para análise de dados
+**Período**: 2020-2023
+**Financiamento**: CAPES
+**Valor**: R$ 200,000
+
+**Produtos**:
+- 5 aplicativos Shiny
+- 3 dashboards web
+- 10 tutoriais
+- 5 publicações
+
+**Impacto**:
+- 1,000+ usuários
+- 50+ instituições
+- 20+ citações
+
+#### Análise Espacial de Indicadores Urbanos
+**Descrição**: Análise de indicadores urbanos usando técnicas espaciais
+**Período**: 2019-2022
+**Financiamento**: FAPEMIG
+**Valor**: R$ 150,000
+
+**Resultados**:
+- Mapas temáticos
+- Análise de autocorrelação
+- Modelos preditivos
+- Relatórios técnicos
+
+### Projetos de Extensão
+
+#### Capacitação em Análise de Dados
+**Descrição**: Cursos e workshops para capacitação profissional
+**Período**: 2021-2024
+**Público**: Profissionais e estudantes
+**Participantes**: 500+
+
+**Atividades**:
+- Cursos presenciais
+- Workshops online
+- Tutoriais interativos
+- Material didático
+
+#### Consultoria Técnica
+**Descrição**: Consultoria para empresas e órgãos públicos
+**Período**: 2020-2024
+**Clientes**: 20+ organizações
+**Projetos**: 50+ projetos
+
+**Serviços**:
+- Análise estatística
+- Desenvolvimento de dashboards
+- Análise espacial
+- Capacitação
+
+### Projetos Internacionais
+
+#### Colaboração com University of Toronto
+**Descrição**: Análise bayesiana de dados espaciais
+**Período**: 2023-2025
+**Parceiro**: Prof. Dr. John Smith
+**Financiamento**: NSERC (Canadá)
+
+**Atividades**:
+- Estágio pós-doutoral
+- Desenvolvimento de métodos
+- Publicações conjuntas
+- Seminários
+
+#### Projeto com University of Washington
+**Descrição**: Machine learning aplicado a dados ambientais
+**Período**: 2022-2024
+**Parceiro**: Prof. Dr. Jane Doe
+**Financiamento**: NSF (EUA)
+
+**Resultados**:
+- Algoritmos de ML
+- Aplicações práticas
+- Software desenvolvido
+- Publicações
+
+### Projetos de Inovação
+
+#### Startup de Analytics
+**Descrição**: Desenvolvimento de produtos de análise de dados
+**Período**: 2023-2026
+**Financiamento**: SEBRAE
+**Valor**: R$ 100,000
+
+**Produtos**:
+- Software de análise
+- Dashboards customizados
+- Consultoria especializada
+- Treinamentos
+
+#### Patente de Método Estatístico
+**Descrição**: Desenvolvimento de método robusto para análise espacial
+**Período**: 2022-2024
+**Status**: Em processo
+**Valor**: R$ 50,000
+
+**Características**:
+- Método inovador
+- Aplicação prática
+- Validação científica
+- Potencial comercial
+
+### Estatísticas dos Projetos
+
+#### Financiamento
+- **Total**: R$ 1,300,000
+- **FAPEMIG**: R$ 650,000
+- **CNPq**: R$ 300,000
+- **CAPES**: R$ 200,000
+- **Outros**: R$ 150,000
+
+#### Produtos
+- **Publicações**: 25 artigos
+- **Software**: 10 aplicativos
+- **Dashboards**: 15 dashboards
+- **Patentes**: 2 em processo
+
+#### Impacto
+- **Usuários**: 2,000+ usuários
+- **Instituições**: 50+ instituições
+- **Citações**: 200+ citações
+- **Colaborações**: 20+ parcerias
+
+### Áreas de Atuação
+
+#### Estatística
+- Métodos robustos
+- Modelagem estatística
+- Análise multivariada
+- Séries temporais
+
+#### Análise Espacial
+- Geoestatística
+- Autocorrelação espacial
+- Interpolação
+- Mapeamento
+
+#### Computação
+- Dashboards interativos
+- Aplicações Shiny
+- Machine learning
+- Visualização de dados
+
+#### Aplicações
+- Monitoramento ambiental
+- Análise urbana
+- Saúde pública
+- Agricultura de precisão 

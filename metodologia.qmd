@@ -1,0 +1,45 @@
+---
+title: "Metodologia"
+---
+
+## Metodologia de Pesquisa
+
+### Abordagem Estatística
+
+Minha pesquisa utiliza uma abordagem metodológica robusta que combina:
+
+- **Análise Exploratória de Dados (AED)**: Primeira etapa para compreensão dos dados
+- **Modelagem Estatística**: Desenvolvimento de modelos preditivos e explicativos
+- **Validação Cruzada**: Garantia da robustez dos modelos
+- **Análise de Resíduos**: Verificação de pressupostos estatísticos
+
+### Técnicas Utilizadas
+
+#### Modelos Lineares
+- **Regressão Linear Múltipla**
+- **Análise de Variância (ANOVA)**
+- **Modelos Lineares Generalizados (GLM)**
+
+#### Modelos Avançados
+- **Regressão Robusta**: Resistente a outliers
+- **Modelos Mistos**: Para dados hierárquicos
+- **Análise de Séries Temporais**: Para dados longitudinais
+
+#### Análise Espacial
+- **Geoestatística**: Krigagem e variografia
+- **Modelos Espaciais**: Autocorrelação espacial
+- **SIG (Sistemas de Informação Geográfica)**: Mapeamento e visualização
+
+### Ferramentas Computacionais
+
+- **R/RStudio**: Análise estatística principal
+- **Python**: Automação e machine learning
+- **QGIS**: Análise espacial
+- **Shiny**: Dashboards interativos
+
+### Validação e Qualidade
+
+- **Testes de Hipóteses**: Significância estatística
+- **Diagnósticos de Modelos**: Verificação de pressupostos
+- **Análise de Sensibilidade**: Robustez dos resultados
+- **Replicabilidade**: Código documentado e reprodutível 

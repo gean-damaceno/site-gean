@@ -1,0 +1,86 @@
+project:
+  type: website
+
+website:
+  title: "Gean Damaceno"
+  navbar:
+    title: "Gean Damaceno"
+    background: "#2c3e50"
+    left:
+      - text: "Home"
+        file: site.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Research"
+        menu:
+          - text: "Research Areas"
+            file: research.qmd
+          - text: "Methodology"
+            file: metodologia.qmd
+          - text: "Results"
+            file: resultados.qmd
+      - text: "Projects"
+        menu:
+          - text: "Dashboards"
+            file: projetos-dashboard.qmd
+          - text: "Shiny Apps"
+            file: projetos-shiny.qmd
+          - text: "GIS Projects"
+            file: projetos-gis.qmd
+      - text: "Materials"
+        menu:
+          - text: "Slides"
+            file: slides.qmd
+          - text: "Scripts"
+            file: scripts.qmd
+          - text: "Books"
+            file: livros.qmd
+      - text: "Data"
+        menu:
+          - text: "Analysis"
+            file: analises.qmd
+          - text: "Visualizations"
+            file: visualizacoes.qmd
+      - text: "Academic"
+        menu:
+          - text: "Publications"
+            file: publicacoes.qmd
+          - text: "Tutorials"
+            file: tutoriais.qmd
+          - text: "Software"
+            file: software.qmd
+      - text: "Networking"
+        menu:
+          - text: "Events"
+            file: eventos.qmd
+          - text: "Collaborations"
+            file: colaboracoes.qmd
+    right:
+      - text: "Help"
+        file: help.qmd
+      - icon: envelope
+        text: "Contact"
+        file: contato.qmd
+  page-footer:
+    right: "This site was made with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Gean Damaceno, 2024"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: slate
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    css: styles.css
+    self-contained: false
+    embed-resources: false
+    compress: true
+    cache: true
+
+# GitHub Pages configuration
+github-pages:
+  output-dir: docs
+
+

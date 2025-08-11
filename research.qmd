@@ -1,0 +1,33 @@
+---
+title: "Research Areas"
+---
+
+# Research Areas
+
+## Statistical Analysis
+- **Spatial Statistics**: Analysis of geographical data and spatial patterns
+- **Time Series Analysis**: Modeling temporal data and forecasting
+- **Multivariate Analysis**: Principal components, factor analysis, clustering
+- **Bayesian Statistics**: Probabilistic modeling and inference
+
+## Applied Statistics
+- **Epidemiology**: Disease modeling and public health statistics
+- **Environmental Statistics**: Climate data analysis and environmental modeling
+- **Social Sciences**: Survey analysis and social data interpretation
+- **Business Analytics**: Market research and business intelligence
+
+## Data Science
+- **Machine Learning**: Predictive modeling and classification
+- **Big Data**: Large-scale data processing and analysis
+- **Data Visualization**: Creating informative and attractive graphics
+- **Reproducible Research**: Open science and reproducible workflows
+
+## Current Projects
+- Spatial analysis of disease patterns
+- Time series forecasting for environmental data
+- Development of statistical software packages
+- Collaborative research in public health
+
+---
+
+*This page showcases my main research areas and current projects in statistics and data science.* 

@@ -1,0 +1,47 @@
+---
+title: Materials
+---
+
+# Materials
+
+Slides, handouts, scripts, spreadsheets, videos, and other teaching materials.
+
+## Teaching Materials
+
+### Mathematics & Statistics
+- **[Matemática Financeira](https://rpubs.com/Gean/1297550)** - Apostila completa sobre juros compostos, aplicações e exercícios práticos
+- **Estatística Básica** - Material didático para cursos introdutórios
+- **Probabilidade** - Slides e exercícios de probabilidade
+
+### Programming & Software
+- **R Programming** - Scripts e exemplos de código
+- **Python for Data Science** - Material de programação em Python
+- **GIS Tutorials** - Tutoriais de Sistemas de Informação Geográfica
+
+### Research Methods
+- **Spatial Statistics** - Metodologias de análise espacial
+- **Time Series Analysis** - Material sobre séries temporais
+- **Multivariate Analysis** - Análise multivariada e visualização
+
+## Interactive Materials
+
+### Shiny Apps
+- **Calculadora Financeira** - Aplicativo interativo para cálculos financeiros
+- **Visualizador de Dados** - Dashboard para análise exploratória
+- **Simulador Estatístico** - Simulações de conceitos estatísticos
+
+### Jupyter Notebooks
+- **Análise de Dados** - Notebooks com exemplos práticos
+- **Machine Learning** - Tutoriais de aprendizado de máquina
+- **Visualização** - Exemplos de gráficos e dashboards
+
+## Video Materials
+
+### Tutorial Videos
+- **R Programming Basics** - Vídeos introdutórios ao R
+- **Statistical Analysis** - Tutoriais de análise estatística
+- **Data Visualization** - Técnicas de visualização de dados
+
+---
+
+*This page contains all teaching materials, slides, scripts, and interactive content used in courses and workshops.* 

@@ -1,0 +1,221 @@
+---
+title: "Scripts"
+---
+
+## Scripts e Códigos
+
+### Scripts R
+
+#### Análise Exploratória
+**Descrição**: Scripts para análise inicial de dados.
+
+**Funcionalidades**:
+- Estatísticas descritivas
+- Visualizações automáticas
+- Detecção de outliers
+- Análise de correlação
+
+**Arquivos**:
+- `exploratory_analysis.R`
+- `data_cleaning.R`
+- `outlier_detection.R`
+- `correlation_analysis.R`
+
+#### Modelagem Estatística
+**Descrição**: Scripts para construção e validação de modelos.
+
+**Modelos**:
+- Regressão linear
+- Regressão logística
+- Modelos mistos
+- Séries temporais
+
+**Arquivos**:
+- `linear_regression.R`
+- `logistic_regression.R`
+- `mixed_models.R`
+- `time_series.R`
+
+#### Análise Espacial
+**Descrição**: Scripts para análise de dados geográficos.
+
+**Técnicas**:
+- Autocorrelação espacial
+- Interpolação
+- Análise de clusters
+- Mapeamento
+
+**Arquivos**:
+- `spatial_autocorrelation.R`
+- `kriging_interpolation.R`
+- `spatial_clustering.R`
+- `mapping.R`
+
+### Scripts Python
+
+#### Automação de Processos
+**Descrição**: Scripts para automação de tarefas repetitivas.
+
+**Aplicações**:
+- Download de dados
+- Processamento em lote
+- Geração de relatórios
+- Backup automático
+
+**Arquivos**:
+- `data_download.py`
+- `batch_processing.py`
+- `report_generation.py`
+- `backup_automation.py`
+
+#### Análise de Dados
+**Descrição**: Scripts para análise avançada com Python.
+
+**Bibliotecas**:
+- pandas: Manipulação de dados
+- numpy: Computação numérica
+- scipy: Estatística
+- scikit-learn: Machine learning
+
+**Arquivos**:
+- `data_analysis.py`
+- `statistical_tests.py`
+- `machine_learning.py`
+- `data_visualization.py`
+
+#### Processamento Espacial
+**Descrição**: Scripts para análise geográfica com Python.
+
+**Ferramentas**:
+- geopandas: Dados geoespaciais
+- rasterio: Imagens raster
+- shapely: Geometrias
+- folium: Mapas interativos
+
+**Arquivos**:
+- `spatial_analysis.py`
+- `raster_processing.py`
+- `vector_analysis.py`
+- `interactive_maps.py`
+
+### Scripts SQL
+
+#### Consultas de Dados
+**Descrição**: Scripts SQL para consulta e manipulação de dados.
+
+**Tipos**:
+- Consultas SELECT
+- Inserção de dados
+- Atualização de registros
+- Criação de views
+
+**Arquivos**:
+- `data_queries.sql`
+- `data_insertion.sql`
+- `data_updates.sql`
+- `view_creation.sql`
+
+#### Análise Espacial
+**Descrição**: Scripts SQL para análise espacial com PostGIS.
+
+**Funcionalidades**:
+- Consultas espaciais
+- Análise de proximidade
+- Cálculo de áreas
+- Intersecções espaciais
+
+**Arquivos**:
+- `spatial_queries.sql`
+- `proximity_analysis.sql`
+- `area_calculations.sql`
+- `spatial_intersections.sql`
+
+### Scripts de Deploy
+
+#### Deploy de Aplicações Shiny
+**Descrição**: Scripts para deploy automático de aplicações.
+
+**Plataformas**:
+- shinyapps.io
+- Shiny Server
+- Docker containers
+- AWS/GCP
+
+**Arquivos**:
+- `deploy_shiny.R`
+- `docker_build.sh`
+- `aws_deploy.py`
+- `monitoring.R`
+
+#### Deploy de Dashboards
+**Descrição**: Scripts para deploy de dashboards web.
+
+**Tecnologias**:
+- R Markdown
+- Quarto
+- HTML/CSS/JS
+- Servidores web
+
+**Arquivos**:
+- `build_dashboard.R`
+- `deploy_web.py`
+- `nginx_config.sh`
+- `ssl_certificate.py`
+
+### Organização dos Scripts
+
+#### Estrutura de Diretórios
+```
+scripts/
+├── R/
+│   ├── analysis/
+│   ├── modeling/
+│   └── spatial/
+├── Python/
+│   ├── automation/
+│   ├── analysis/
+│   └── spatial/
+├── SQL/
+│   ├── queries/
+│   └── spatial/
+└── deploy/
+    ├── shiny/
+    └── web/
+```
+
+#### Padrões de Nomenclatura
+- **Arquivos R**: `function_name.R`
+- **Arquivos Python**: `function_name.py`
+- **Arquivos SQL**: `query_name.sql`
+- **Scripts Shell**: `deploy_name.sh`
+
+### Documentação
+
+#### Comentários
+- **R**: `# Comentários em linha`
+- **Python**: `# Comentários em linha`
+- **SQL**: `-- Comentários em linha`
+
+#### Documentação
+- **README**: Descrição geral
+- **Requirements**: Dependências
+- **Examples**: Exemplos de uso
+- **Changelog**: Histórico de mudanças
+
+### Estatísticas
+
+#### Scripts Desenvolvidos
+- **Total**: 100+ scripts
+- **R**: 60 scripts
+- **Python**: 30 scripts
+- **SQL**: 10 scripts
+
+#### Downloads
+- **GitHub**: 5,000+ downloads
+- **CRAN**: 2,000+ downloads
+- **PyPI**: 1,000+ downloads
+
+#### Qualidade
+- **Testes**: 90% testados
+- **Documentação**: 100% documentados
+- **Licença**: MIT License 

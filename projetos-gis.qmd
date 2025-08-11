@@ -1,0 +1,119 @@
+---
+title: "GIS Projects"
+---
+
+## Projetos de Sistemas de Informação Geográfica
+
+### Mapeamento de Indicadores Ambientais
+
+**Descrição**: Sistema de mapeamento e monitoramento de variáveis ambientais em escala regional.
+
+**Tecnologias**:
+- **QGIS**: Processamento espacial
+- **PostGIS**: Banco de dados espacial
+- **R**: Análise estatística
+- **Python**: Automação
+
+**Resultados**:
+- Cobertura de 100% da área de estudo
+- Resolução de 30m x 30m
+- Precisão de 92% na validação
+
+### Análise de Vulnerabilidade Climática
+
+**Descrição**: Mapeamento de áreas vulneráveis a mudanças climáticas usando indicadores múltiplos.
+
+**Metodologia**:
+- Índice de Vulnerabilidade Climática
+- Análise multicritério
+- Interpolação espacial
+- Validação com dados históricos
+
+**Aplicações**:
+- Planejamento urbano
+- Gestão de recursos hídricos
+- Agricultura de precisão
+
+### Sistema de Monitoramento Urbano
+
+**Descrição**: Plataforma para monitoramento de indicadores urbanos em tempo real.
+
+**Funcionalidades**:
+- Coleta de dados georreferenciados
+- Processamento automático
+- Visualização em mapas
+- Alertas em tempo real
+
+**Indicadores Monitorados**:
+- Qualidade do ar
+- Tráfego urbano
+- Uso do solo
+- Infraestrutura
+
+### Análise de Acessibilidade
+
+**Descrição**: Estudo de acessibilidade a serviços públicos usando análise de rede.
+
+**Metodologia**:
+- Análise de rede viária
+- Cálculo de distâncias
+- Modelagem de tempo de viagem
+- Análise de cobertura
+
+**Aplicações**:
+- Planejamento de transporte
+- Localização de serviços
+- Análise de equidade
+
+### Mapeamento de Risco
+
+**Descrição**: Sistema de mapeamento de riscos naturais e antropogênicos.
+
+**Tipos de Risco**:
+- Inundações
+- Deslizamentos
+- Incêndios florestais
+- Poluição
+
+**Características**:
+- Modelagem probabilística
+- Análise temporal
+- Integração de dados múltiplos
+- Validação com eventos históricos
+
+### Tecnologias Utilizadas
+
+#### Software GIS
+- **QGIS**: Processamento principal
+- **ArcGIS**: Análises avançadas
+- **GRASS**: Análise de terreno
+- **SAGA**: Processamento de dados
+
+#### Programação
+- **Python**: Automação e análise
+- **R**: Estatística espacial
+- **PostgreSQL/PostGIS**: Banco de dados
+- **JavaScript**: Visualização web
+
+#### Dados
+- **Imagens de Satélite**: Landsat, Sentinel
+- **Dados de Campo**: GPS, sensores
+- **Dados Oficiais**: IBGE, INPE
+- **OpenStreetMap**: Dados de rede
+
+### Resultados dos Projetos
+
+#### Publicações
+- **Artigos**: 12 artigos publicados
+- **Conferências**: 8 apresentações
+- **Capítulos**: 3 capítulos de livro
+
+#### Impacto
+- **Municípios Atendidos**: 50+
+- **Área Mapeada**: 100,000+ km²
+- **Usuários**: 200+ profissionais
+
+#### Reconhecimento
+- **Prêmios**: 2 prêmios científicos
+- **Patentes**: 1 patente depositada
+- **Colaborações**: 15 instituições 

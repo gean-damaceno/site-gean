@@ -1,0 +1,12 @@
+---
+title: "Contact"
+---
+
+
+Preencha a caixa abaixo para entrar em contato:
+
+<form action="mailto:geandamaceno@gmail.com" method="POST" enctype="text/plain">
+  <label for="mensagem">Mensagem:</label><br>
+  <textarea id="mensagem" name="mensagem" rows="6" cols="40" placeholder="Digite sua mensagem aqui..."></textarea><br><br>
+  <input type="submit" value="Enviar">
+</form> 

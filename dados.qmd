@@ -1,0 +1,191 @@
+---
+title: "Data"
+---
+
+## Conjuntos de Dados
+
+### Dados Ambientais
+
+#### Dados Climáticos
+**Descrição**: Séries temporais de variáveis climáticas
+**Período**: 2010-2023
+**Frequência**: Diária
+**Variáveis**: Temperatura, precipitação, umidade, pressão
+
+**Formato**: CSV, Excel
+**Tamanho**: 50 MB
+**Registros**: 5,000+ registros
+
+#### Dados de Qualidade do Ar
+**Descrição**: Monitoramento de poluentes atmosféricos
+**Período**: 2018-2023
+**Frequência**: Horária
+**Variáveis**: PM2.5, PM10, O3, NO2, SO2
+
+**Formato**: CSV, JSON
+**Tamanho**: 100 MB
+**Registros**: 10,000+ registros
+
+#### Dados de Uso do Solo
+**Descrição**: Classificação de uso e cobertura do solo
+**Ano**: 2020
+**Resolução**: 30m x 30m
+**Classes**: 10 classes principais
+
+**Formato**: Shapefile, GeoTIFF
+**Tamanho**: 500 MB
+**Área**: 50,000 km²
+
+### Dados Socioeconômicos
+
+#### Dados Demográficos
+**Descrição**: Informações populacionais por município
+**Ano**: 2020 (Censo IBGE)
+**Nível**: Municipal
+**Variáveis**: População, idade, sexo, educação
+
+**Formato**: CSV, Excel
+**Tamanho**: 10 MB
+**Municípios**: 5,570 municípios
+
+#### Dados Econômicos
+**Descrição**: Indicadores econômicos municipais
+**Período**: 2010-2022
+**Frequência**: Anual
+**Variáveis**: PIB, renda, emprego, comércio
+
+**Formato**: CSV, Excel
+**Tamanho**: 20 MB
+**Registros**: 70,000+ registros
+
+#### Dados de Saúde
+**Descrição**: Indicadores de saúde pública
+**Período**: 2015-2023
+**Frequência**: Mensal
+**Variáveis**: Casos de doenças, mortalidade, vacinação
+
+**Formato**: CSV, Excel
+**Tamanho**: 30 MB
+**Registros**: 15,000+ registros
+
+### Dados Espaciais
+
+#### Limites Administrativos
+**Descrição**: Shapefiles de limites municipais, estaduais e federais
+**Ano**: 2023
+**Escala**: 1:250,000
+**Projeção**: SIRGAS 2000
+
+**Formato**: Shapefile
+**Tamanho**: 200 MB
+**Arquivos**: 27 estados + DF
+
+#### Rede Viária
+**Descrição**: Dados de rodovias, estradas e vias urbanas
+**Fonte**: OpenStreetMap
+**Atualização**: 2023
+**Tipos**: Rodovias federais, estaduais, municipais
+
+**Formato**: Shapefile, OSM
+**Tamanho**: 150 MB
+**Extensão**: Brasil
+
+#### Dados de Elevação
+**Descrição**: Modelo digital de elevação (SRTM)
+**Resolução**: 30m x 30m
+**Cobertura**: Brasil
+**Precisão**: ±10m
+
+**Formato**: GeoTIFF
+**Tamanho**: 2 GB
+**Arquivos**: 100+ tiles
+
+### Dados de Pesquisa
+
+#### Dados Experimentais
+**Descrição**: Dados de experimentos controlados
+**Tipo**: Ensaios de campo
+**Variáveis**: Tratamentos, respostas, covariáveis
+**Repetições**: 4 repetições
+
+**Formato**: CSV, RDS
+**Tamanho**: 5 MB
+**Experimentos**: 10 experimentos
+
+#### Dados de Monitoramento
+**Descrição**: Dados de monitoramento contínuo
+**Período**: 2020-2023
+**Frequência**: Contínua
+**Sensores**: 50+ sensores
+
+**Formato**: CSV, JSON
+**Tamanho**: 500 MB
+**Registros**: 1,000,000+ registros
+
+#### Dados de Validação
+**Descrição**: Dados independentes para validação
+**Tipo**: Amostras independentes
+**Tamanho**: 20% dos dados principais
+**Uso**: Validação de modelos
+
+**Formato**: CSV, Excel
+**Tamanho**: 10 MB
+**Registros**: 1,000+ registros
+
+### Metadados
+
+#### Documentação
+**Descrição**: Documentação completa dos dados
+**Formato**: PDF, HTML
+**Conteúdo**: Descrição, variáveis, unidades, fontes
+
+#### Dicionário de Dados
+**Descrição**: Descrição detalhada de cada variável
+**Formato**: Excel, CSV
+**Campos**: Nome, descrição, tipo, unidade, range
+
+#### Controle de Qualidade
+**Descrição**: Relatórios de qualidade dos dados
+**Aspectos**: Completude, consistência, acurácia
+**Frequência**: Mensal
+
+### Acesso aos Dados
+
+#### Formato de Distribuição
+- **CSV**: Dados tabulares
+- **Excel**: Dados com múltiplas abas
+- **Shapefile**: Dados espaciais vetoriais
+- **GeoTIFF**: Dados espaciais raster
+- **JSON**: Dados estruturados
+- **RDS**: Dados R nativos
+
+#### Licença
+- **Dados Públicos**: Creative Commons
+- **Dados de Pesquisa**: MIT License
+- **Dados Sensíveis**: Acesso restrito
+
+#### Download
+- **Individual**: Por conjunto de dados
+- **Pacote**: Conjuntos relacionados
+- **API**: Acesso programático
+- **FTP**: Transferência em lote
+
+### Estatísticas
+
+#### Volume de Dados
+- **Total**: 5 GB de dados
+- **Conjuntos**: 50+ conjuntos
+- **Registros**: 2,000,000+ registros
+- **Variáveis**: 500+ variáveis
+
+#### Uso
+- **Downloads**: 10,000+ downloads
+- **Usuários**: 500+ usuários
+- **Citações**: 100+ citações
+- **Projetos**: 200+ projetos
+
+#### Qualidade
+- **Completude**: 95% dos dados
+- **Consistência**: 98% consistente
+- **Acurácia**: 90% acurácia
+- **Atualização**: Mensal 

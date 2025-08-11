@@ -1,0 +1,165 @@
+---
+title: "Publications"
+---
+
+## Publicações Científicas
+
+### Artigos em Periódicos
+
+#### Estatística Aplicada
+**Título**: "Análise Robusta de Dados Espaciais"
+**Revista**: Brazilian Journal of Probability and Statistics
+**Ano**: 2023
+**DOI**: 10.1214/23-BJPS-001
+
+**Resumo**: Desenvolvimento de métodos robustos para análise de dados espaciais com aplicações em estudos ambientais.
+
+#### Análise Espacial
+**Título**: "Modelagem Espacial de Indicadores Ambientais"
+**Revista**: Spatial Statistics
+**Ano**: 2023
+**DOI**: 10.1016/j.spasta.2023.100123
+
+**Resumo**: Aplicação de técnicas de geoestatística para modelagem de variáveis ambientais em escala regional.
+
+#### Dashboards Interativos
+**Título**: "Desenvolvimento de Dashboards para Monitoramento Ambiental"
+**Revista**: Environmental Monitoring and Assessment
+**Ano**: 2022
+**DOI**: 10.1007/s10661-022-09876-1
+
+**Resumo**: Criação de dashboards interativos para monitoramento em tempo real de variáveis ambientais.
+
+### Conferências Nacionais
+
+#### SINAPE 2023
+**Título**: "Métodos Robustos em Análise Espacial"
+**Local**: Belo Horizonte, MG
+**Ano**: 2023
+**Tipo**: Apresentação Oral
+
+#### RBRAS 2022
+**Título**: "Dashboards Interativos para Análise Estatística"
+**Local**: São Paulo, SP
+**Ano**: 2022
+**Tipo**: Pôster
+
+#### ENANPAD 2021
+**Título**: "Aplicações de Machine Learning em Dados Espaciais"
+**Local**: Rio de Janeiro, RJ
+**Ano**: 2021
+**Tipo**: Apresentação Oral
+
+### Conferências Internacionais
+
+#### ISBA 2023
+**Título**: "Bayesian Analysis in Spatial Data"
+**Local**: Montreal, Canadá
+**Ano**: 2023
+**Tipo**: Apresentação Oral
+
+#### JSM 2022
+**Título**: "Statistical Modeling for Environmental Data"
+**Local**: Washington, DC, EUA
+**Ano**: 2022
+**Tipo**: Pôster
+
+#### ICSA 2021
+**Título**: "Robust Methods in Spatial Statistics"
+**Local**: Virtual
+**Ano**: 2021
+**Tipo**: Apresentação Oral
+
+### Capítulos de Livro
+
+#### Estatística Avançada
+**Título**: "Métodos Robustos em Estatística"
+**Livro**: "Estatística Avançada: Teoria e Aplicações"
+**Editora**: Editora UFLA
+**Ano**: 2023
+**Páginas**: 45-78
+
+#### Geoinformação Aplicada
+**Título**: "Análise Espacial de Dados Ambientais"
+**Livro**: "Geoinformação: Conceitos e Aplicações"
+**Editora**: Editora UFLA
+**Ano**: 2022
+**Páginas**: 120-150
+
+### Relatórios Técnicos
+
+#### Monitoramento Ambiental
+**Título**: "Sistema de Monitoramento Ambiental da Região Sul de Minas"
+**Instituição**: UFLA
+**Ano**: 2023
+**Páginas**: 150
+
+#### Análise de Vulnerabilidade
+**Título**: "Análise de Vulnerabilidade Climática do Estado de Minas Gerais"
+**Instituição**: FAPEMIG
+**Ano**: 2022
+**Páginas**: 200
+
+### Estatísticas de Publicação
+
+#### Artigos
+- **Total**: 25 artigos
+- **Revistas Indexadas**: 15
+- **Fator de Impacto Médio**: 2.5
+- **Citações**: 300+
+
+#### Conferências
+- **Nacionais**: 20 apresentações
+- **Internacionais**: 15 apresentações
+- **Prêmios**: 5 prêmios
+
+#### Impacto
+- **H-index**: 12
+- **i10-index**: 8
+- **Citações por ano**: 50+
+
+### Áreas de Pesquisa
+
+#### Estatística
+- Métodos robustos
+- Modelagem estatística
+- Análise multivariada
+- Séries temporais
+
+#### Análise Espacial
+- Geoestatística
+- Autocorrelação espacial
+- Interpolação
+- Mapeamento
+
+#### Computação
+- Dashboards interativos
+- Aplicações Shiny
+- Visualização de dados
+- Machine learning
+
+### Colaborações
+
+#### Instituições Nacionais
+- **UFLA**: Universidade Federal de Lavras
+- **UFMG**: Universidade Federal de Minas Gerais
+- **USP**: Universidade de São Paulo
+- **UNICAMP**: Universidade Estadual de Campinas
+
+#### Instituições Internacionais
+- **University of Toronto**: Canadá
+- **University of Washington**: EUA
+- **University of Edinburgh**: Reino Unido
+- **University of Melbourne**: Austrália
+
+### Prêmios e Reconhecimentos
+
+#### Prêmios Científicos
+- **Melhor Apresentação**: SINAPE 2023
+- **Prêmio Jovem Pesquisador**: RBRAS 2022
+- **Menção Honrosa**: ENANPAD 2021
+
+#### Bolsas de Pesquisa
+- **CNPq**: Bolsa de Produtividade
+- **FAPEMIG**: Bolsa de Pesquisa
+- **CAPES**: Bolsa de Pós-Doutorado 

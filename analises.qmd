@@ -1,0 +1,183 @@
+---
+title: "Analysis"
+---
+
+## Análises Estatísticas
+
+### Análise Exploratória de Dados
+
+#### Estatísticas Descritivas
+**Descrição**: Análise inicial de conjuntos de dados com estatísticas descritivas e visualizações.
+
+**Técnicas Utilizadas**:
+- Medidas de tendência central
+- Medidas de dispersão
+- Análise de assimetria e curtose
+- Detecção de outliers
+- Análise de correlação
+
+**Ferramentas**:
+- **R**: Análise estatística
+- **ggplot2**: Visualizações
+- **dplyr**: Manipulação de dados
+- **corrplot**: Matriz de correlação
+
+#### Visualizações Interativas
+**Descrição**: Gráficos interativos para exploração de dados.
+
+**Tipos de Gráficos**:
+- Histogramas e densidade
+- Boxplots e violinos
+- Scatter plots
+- Heatmaps
+- Gráficos de barras
+
+### Modelagem Estatística
+
+#### Regressão Linear
+**Descrição**: Modelagem de relações lineares entre variáveis.
+
+**Aplicações**:
+- Previsão de valores
+- Análise de impacto
+- Validação de hipóteses
+- Diagnósticos de modelo
+
+**Técnicas**:
+- Regressão linear simples
+- Regressão linear múltipla
+- Seleção de variáveis
+- Validação cruzada
+
+#### Modelos Lineares Generalizados
+**Descrição**: Extensão dos modelos lineares para diferentes distribuições.
+
+**Tipos de Modelos**:
+- Regressão logística
+- Regressão de Poisson
+- Regressão binomial negativa
+- Modelos de sobrevivência
+
+#### Análise de Variância
+**Descrição**: Comparação de médias entre grupos.
+
+**Aplicações**:
+- Experimentos controlados
+- Análise de fatores
+- Testes de significância
+- Análise post-hoc
+
+### Análise Espacial
+
+#### Autocorrelação Espacial
+**Descrição**: Análise de dependência espacial entre observações.
+
+**Índices Utilizados**:
+- Índice de Moran
+- Índice de Geary
+- LISA (Local Indicators of Spatial Association)
+- Getis-Ord Gi*
+
+#### Interpolação Espacial
+**Descrição**: Estimação de valores em locais não amostrados.
+
+**Métodos**:
+- Krigagem ordinária
+- Krigagem universal
+- Krigagem com deriva externa
+- Co-krigagem
+
+#### Análise de Clusters
+**Descrição**: Identificação de padrões espaciais.
+
+**Técnicas**:
+- Análise de clusters hierárquica
+- K-means espacial
+- DBSCAN espacial
+- Análise de hotspots
+
+### Séries Temporais
+
+#### Análise de Tendências
+**Descrição**: Identificação de padrões temporais nos dados.
+
+**Técnicas**:
+- Decomposição temporal
+- Filtros de tendência
+- Testes de estacionariedade
+- Análise de sazonalidade
+
+#### Modelos de Previsão
+**Descrição**: Desenvolvimento de modelos preditivos temporais.
+
+**Modelos**:
+- ARIMA
+- SARIMA
+- Modelos de suavização exponencial
+- Modelos de regressão com variáveis temporais
+
+### Análise Multivariada
+
+#### Análise de Componentes Principais
+**Descrição**: Redução de dimensionalidade e identificação de padrões.
+
+**Aplicações**:
+- Redução de variáveis
+- Análise exploratória
+- Visualização de dados
+- Análise de similaridade
+
+#### Análise de Clusters
+**Descrição**: Agrupamento de observações similares.
+
+**Algoritmos**:
+- K-means
+- Hierarchical clustering
+- DBSCAN
+- Spectral clustering
+
+#### Análise Discriminante
+**Descrição**: Classificação de observações em grupos.
+
+**Métodos**:
+- Análise discriminante linear
+- Análise discriminante quadrática
+- Análise discriminante regularizada
+
+### Qualidade de Dados
+
+#### Detecção de Outliers
+**Descrição**: Identificação de valores atípicos nos dados.
+
+**Métodos**:
+- Métodos estatísticos clássicos
+- Métodos robustos
+- Análise de distância
+- Análise de densidade
+
+#### Validação de Dados
+**Descrição**: Verificação de consistência e qualidade.
+
+**Aspectos**:
+- Verificação de range
+- Análise de valores faltantes
+- Verificação de formato
+- Análise de duplicatas
+
+### Estatísticas dos Projetos
+
+#### Análises Realizadas
+- **Total**: 200+ análises
+- **Tipos**: 15 tipos diferentes
+- **Dados**: 50+ conjuntos de dados
+
+#### Impacto
+- **Publicações**: 25 artigos
+- **Decisões**: 30 decisões baseadas em dados
+- **Economia**: R$ 2M+ em economia
+
+#### Tecnologias
+- **R**: 90% das análises
+- **Python**: 10% das análises
+- **QGIS**: Análises espaciais
+- **Shiny**: Dashboards interativos 

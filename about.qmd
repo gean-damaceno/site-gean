@@ -1,0 +1,19 @@
+---
+title: ""
+---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="DSC08750.jpg" alt="Foto de Gean Damaceno" style="width: 400px; border-radius: 50%; box-shadow: 0 2px 12px rgba(0,0,0,0.15); margin-bottom: 1rem;">
+  <h2 style="margin-top: 0.5rem;">Gean Pereira Damaceno</h2>
+</div>
+
+Hello! I am Gean Damaceno, passionate about Statistics, Data Science, and innovative projects.
+
+Currently, I work on research, teaching, and consulting projects, always seeking to combine technical knowledge and creativity to solve real-world problems.
+
+- **Education:** Degree in Statistics from [Your University].
+- **Interests:** Applied Statistics, Data Science, Data Visualization, Statistical Modeling, Machine Learning.
+- **Experience:** I have participated in academic projects, scientific events, and collaborated with multidisciplinary teams.
+- **Contact:** [geandamaceno@gmail.com](mailto:geandamaceno@gmail.com)
+
+Feel free to explore the site, check out my projects, and get in touch for collaborations, questions, or partnerships!

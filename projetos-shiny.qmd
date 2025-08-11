@@ -1,0 +1,105 @@
+---
+title: "Shiny Apps"
+---
+
+## Aplicativos Shiny
+
+### App de Análise Exploratória
+
+**Descrição**: Ferramenta interativa para análise exploratória de dados com visualizações dinâmicas.
+
+**Funcionalidades**:
+- Upload de arquivos CSV/Excel
+- Gráficos interativos
+- Estatísticas descritivas
+- Detecção de outliers
+- Exportação de relatórios
+
+**Tecnologias**:
+- **R Shiny**: Framework principal
+- **ggplot2**: Visualizações
+- **dplyr**: Manipulação de dados
+- **DT**: Tabelas interativas
+
+### App de Modelagem Estatística
+
+**Descrição**: Interface para construção e validação de modelos estatísticos.
+
+**Recursos**:
+- Seleção de variáveis
+- Ajuste de modelos
+- Diagnósticos automáticos
+- Validação cruzada
+- Comparação de modelos
+
+**Modelos Disponíveis**:
+- Regressão Linear
+- Regressão Logística
+- Modelos Mistos
+- Séries Temporais
+
+### App de Análise Espacial
+
+**Descrição**: Ferramenta para análise e visualização de dados geográficos.
+
+**Características**:
+- Upload de shapefiles
+- Mapas interativos
+- Análise de autocorrelação
+- Interpolação espacial
+- Exportação de mapas
+
+**Funcionalidades Espaciais**:
+- Índice de Moran
+- Krigagem
+- Análise de clusters
+- Hotspots
+
+### App de Controle de Qualidade
+
+**Descrição**: Sistema para verificação e controle de qualidade de dados.
+
+**Recursos**:
+- Verificação de consistência
+- Detecção de valores atípicos
+- Relatórios de qualidade
+- Sugestões de correção
+- Histórico de mudanças
+
+### App de Séries Temporais
+
+**Descrição**: Ferramenta para análise e previsão de séries temporais.
+
+**Funcionalidades**:
+- Decomposição temporal
+- Detecção de tendências
+- Modelos de previsão
+- Validação de modelos
+- Gráficos de diagnóstico
+
+### Estatísticas dos Apps
+
+#### Downloads
+- **Total**: 2,500+ downloads
+- **Média Mensal**: 150 downloads
+- **Países**: 25+ países
+
+#### Avaliações
+- **Média**: 4.8/5 estrelas
+- **Comentários**: 200+ feedbacks
+- **Usuários Ativos**: 300+
+
+#### Tecnologias
+- **R Shiny**: Framework principal
+- **Plotly**: Gráficos interativos
+- **Leaflet**: Mapas
+- **DT**: Tabelas
+- **shinydashboard**: Layout
+
+### Código Aberto
+
+Todos os aplicativos estão disponíveis no GitHub com:
+- **Documentação completa**
+- **Exemplos de uso**
+- **Código comentado**
+- **Licença MIT** 

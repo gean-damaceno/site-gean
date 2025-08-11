@@ -1,0 +1,38 @@
+---
+title: "Help"
+---
+
+## Como usar este site
+
+### Navegação
+
+- **Home**: Página inicial com carrossel de imagens
+- **About**: Informações sobre Gean Damaceno
+- **Research**: Áreas de pesquisa e metodologia
+- **Projects**: Dashboards, aplicativos Shiny e projetos GIS
+- **Materials**: Slides, scripts e livros
+- **Data**: Análises e visualizações
+- **Academic**: Publicações, tutoriais e software
+- **Networking**: Eventos e colaborações
+
+### Carrossel de Imagens
+
+O carrossel na página inicial muda automaticamente a cada 2 segundos, mostrando diferentes projetos e análises:
+
+- **Análise Espacial**: Visualização de dados geográficos
+- **Modelagem Estatística**: Análises avançadas
+- **Desenvolvimento Web**: Dashboards interativos
+- **Análise de Erros**: Detecção de erros estatísticos
+- **Mapa Interativo**: Visualização geográfica
+
+### Contato
+
+Para dúvidas ou colaborações, use a página de **Contato** ou envie um email.
+
+### Tema
+
+O site possui modo claro e escuro. Use o botão de tema no canto superior direito para alternar.
+
+---
+
+*Esta página está em constante atualização. Volte sempre!* 

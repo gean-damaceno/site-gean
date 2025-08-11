@@ -1,0 +1,85 @@
+---
+title: "Welcome to Gean's Site"
+---
+
+::: {.auto-carousel}
+::: {.carousel-wrapper}
+::: {.carousel-slide .active}
+![Análise Espacial](imagem/img1.png){.carousel-image}
+
+::: {.slide-caption}
+### Análise Espacial
+Visualização de dados geográficos e estatísticos
+:::
+:::
+
+::: {.carousel-slide}
+![Modelagem Estatística](imagem/img2.png){.carousel-image}
+
+::: {.slide-caption}
+### Modelagem Estatística
+Análises avançadas e modelagem de dados
+:::
+:::
+
+::: {.carousel-slide}
+![Desenvolvimento Web](imagem/quarto.jpg){.carousel-image}
+
+::: {.slide-caption}
+### Desenvolvimento Web
+Criação de aplicativos e dashboards interativos
+:::
+:::
+
+::: {.carousel-slide}
+![Análise de Erros](imagem/erro.png){.carousel-image}
+
+::: {.slide-caption}
+### Análise de Erros
+Detecção e correção de erros estatísticos
+:::
+:::
+
+::: {.carousel-slide}
+![Mapa Interativo](imagem/map.png){.carousel-image}
+
+::: {.slide-caption}
+### Mapa Interativo
+Visualização geográfica de dados espaciais
+:::
+:::
+::::
+:::
+
+## Highlights
+
+- **Análise Espacial**: Técnicas avançadas de geoestatística e modelagem espacial
+- **Estatística Aplicada**: Modelos robustos e análises multivariadas  
+- **Desenvolvimento Web**: Dashboards interativos e aplicativos Shiny
+- **Visualização de Dados**: Gráficos dinâmicos e mapas interativos
+
+```{=html}
+<script>
+// Carrossel automático simples
+(function() {
+  const slides = document.querySelectorAll('.carousel-slide');
+  let currentSlide = 0;
+  
+  function nextSlide() {
+    // Remove active de todos os slides
+    slides.forEach(slide => slide.classList.remove('active'));
+    
+    // Adiciona active no slide atual
+    slides[currentSlide].classList.add('active');
+    
+    // Próximo slide
+    currentSlide = (currentSlide + 1) % slides.length;
+  }
+  
+  // Inicia o carrossel - 4 segundos
+  if (slides.length > 0) {
+    setInterval(nextSlide, 2000);
+  }
+})();
+</script>
+```

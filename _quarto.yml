@@ -78,6 +78,12 @@ format:
     embed-resources: false
     compress: true
     cache: true
+    include-in-header: |
+      <meta name="robots" content="index, follow">
+      <meta name="author" content="Gean Pereira Damaceno">
+      <meta name="geo.region" content="BR">
+      <meta name="geo.placename" content="Brasil">
+      <link rel="canonical" href="https://gean-damaceno.github.io/site-gean/">
 
 # GitHub Pages configuration
 github-pages:

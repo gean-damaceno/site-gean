@@ -9,6 +9,33 @@ _site_libs/
 .Ruserdata
 .Rproj.user/
 
+# Arquivos sensíveis - não enviar para GitHub
+*.R
+*.r
+*.Rmd
+*.rmd
+*.RData
+*.rds
+*.csv
+*.xlsx
+*.xls
+*.txt
+*.dat
+*.sav
+*.dta
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# Pastas com dados sensíveis
+dados/
+data/
+raw_data/
+processed_data/
+scripts_privados/
+materiais_privados/
+
 # Temporary files
 *.tmp
 *.temp

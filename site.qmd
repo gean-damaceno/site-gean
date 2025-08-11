@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Gean's Site"
-description: "Site pessoal de Gean Damaceno: análises, projetos, publicações e mais. Encontre informações sobre Gean, Damaceno, Gean Damaceno, home, principal."
-keywords: [Gean Damaceno, Damaceno, Gean, gean damaceno, home, principal]
+title: "Gean Damaceno - Estatístico e Cientista de Dados"
+description: "Site oficial de Gean Pereira Damaceno - Estatístico, Cientista de Dados e Pesquisador. Projetos, publicações, análises e mais."
+keywords: [Gean Damaceno, Gean Pereira Damaceno, Estatístico, Cientista de Dados, Data Science, Análise Estatística, Brasil, home, principal]
 ---
 
 ::: {.auto-carousel}

@@ -1,5 +1,7 @@
 ---
-title: ""
+title: "Gean Damaceno - Estatístico e Cientista de Dados"
+description: "Gean Pereira Damaceno - Estatístico, Cientista de Dados e Pesquisador. Especialista em Análise Estatística, Visualização de Dados e Modelagem."
+keywords: [Gean Damaceno, Gean Pereira Damaceno, Estatístico, Cientista de Dados, Análise Estatística, Data Science, Brasil]
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">

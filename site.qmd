@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Gean's Site - Online"
+title: "Welcome to Gean's Site - GitHub Actions Test"
 ---
 
 ::: {.auto-carousel}

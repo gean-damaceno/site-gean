@@ -3,11 +3,3 @@ title: "Projects"
 ---
 
 # Site em Construção 🚧
-
-Esta seção está sendo desenvolvida. Em breve você encontrará informações sobre:
-
-- **Dashboards**: Dashboards interativos
-- **Shiny Apps**: Aplicativos Shiny
-- **GIS Projects**: Projetos de Sistemas de Informação Geográfica
-
-Volte em breve para ver as atualizações! 

@@ -1,13 +1,9 @@
 ---
-title: "Research"
+title: "Research Areas"
 ---
 
 # Site em Construção 🚧
 
-Esta seção está sendo desenvolvida. Em breve você encontrará informações sobre:
+Esta seção está sendo desenvolvida. Em breve você encontrará informações detalhadas sobre as minhas áreas de pesquisa.
 
-- **Research Areas**: Áreas de pesquisa
-- **Methodology**: Metodologias utilizadas  
-- **Results**: Resultados e descobertas
-
-Volte em breve para ver as atualizações! 
+Volte em breve para ver as atualizações!

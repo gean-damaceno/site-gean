@@ -51,11 +51,7 @@ website:
           - text: "Software"
             file: software.qmd
       - text: "Networking"
-        menu:
-          - text: "Events"
-            file: eventos.qmd
-          - text: "Collaborations"
-            file: colaboracoes.qmd
+        file: networking.qmd
     right:
       - text: "Help"
         file: help.qmd

@@ -2,63 +2,8 @@
 title: "Resultados"
 ---
 
-## Resultados Principais
+# Site em Construção 🚧
 
-### Análise de Dados Espaciais
+Esta seção está sendo desenvolvida. Em breve você encontrará as análises de dados que realizei.
 
-#### Modelagem de Variáveis Ambientais
-- **Coeficiente de Determinação**: R² = 0.85
-- **Erro Médio Absoluto**: MAE = 0.12
-- **Validação Cruzada**: 10-fold CV com precisão de 89%
-
-#### Mapeamento de Indicadores
-- **Cobertura**: 100% da área de estudo
-- **Resolução**: 30m x 30m
-- **Precisão**: 92% de acurácia geral
-
-### Projetos de Dashboards
-
-#### Dashboard de Monitoramento
-- **Usuários Ativos**: 150+ usuários mensais
-- **Tempo de Carregamento**: < 2 segundos
-- **Disponibilidade**: 99.5% uptime
-
-#### Aplicativos Shiny
-- **Downloads**: 500+ downloads
-- **Avaliação**: 4.8/5 estrelas
-- **Feedback**: 95% de satisfação
-
-### Publicações Científicas
-
-#### Artigos Publicados
-- **Revistas Indexadas**: 8 artigos
-- **Fator de Impacto**: Média de 2.5
-- **Citações**: 150+ citações
-
-#### Conferências
-- **Apresentações**: 15 conferências nacionais/internacionais
-- **Prêmios**: 3 prêmios de melhor apresentação
-
-### Impacto Acadêmico
-
-#### Colaborações
-- **Parcerias**: 12 instituições
-- **Projetos**: 8 projetos em andamento
-- **Orientandos**: 15 estudantes
-
-#### Software Desenvolvido
-- **Pacotes R**: 3 pacotes publicados
-- **Downloads**: 10,000+ downloads
-- **Documentação**: 100% documentado
-
-### Indicadores de Qualidade
-
-#### Reprodutibilidade
-- **Código Aberto**: 100% dos projetos
-- **Documentação**: Padrão científico
-- **Versionamento**: Git/GitHub
-
-#### Inovação
-- **Novos Métodos**: 5 metodologias desenvolvidas
-- **Patentes**: 2 patentes em processo
-- **Transferência**: 3 tecnologias transferidas 
+Volte em breve para ver as atualizações!

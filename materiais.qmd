@@ -3,11 +3,3 @@ title: "Materials"
 ---
 
 # Site em Construção 🚧
-
-Esta seção está sendo desenvolvida. Em breve você encontrará informações sobre:
-
-- **Slides**: Apresentações e slides
-- **Scripts**: Códigos e scripts
-- **Books**: Livros e publicações
-
-Volte em breve para ver as atualizações! 

@@ -2,66 +2,11 @@
 title: "Software"
 ---
 
-# Software
+# Site em Construção 🚧
 
-Here you can showcase the software tools, packages, and applications you've developed or frequently use in your statistical work.
+Esta seção está sendo desenvolvida. Em breve você encontrará as ferramentas e tecnologias de software que utilizo em meu trabalho estatístico e de ciência de dados.
 
-## Statistical Software
-
-### R Programming
-- **R Studio**: Integrated development environment for R
-- **R Markdown**: Dynamic documents with R code
-- **Shiny**: Interactive web applications
-- **ggplot2**: Data visualization
-- **dplyr**: Data manipulation
-- **tidyr**: Data tidying
-
-### Python
-- **Jupyter Notebooks**: Interactive computing
-- **Pandas**: Data analysis and manipulation
-- **NumPy**: Numerical computing
-- **Matplotlib**: Plotting library
-- **Seaborn**: Statistical data visualization
-
-### GIS and Spatial Analysis
-- **QGIS**: Geographic Information System
-- **ArcGIS**: Professional GIS software
-- **R spatial packages**: sf, sp, raster
-- **Python spatial**: GeoPandas, Folium
-
-## Custom Applications
-
-### Shiny Apps
-- Interactive dashboards for data visualization
-- Statistical analysis tools
-- Data exploration applications
-
-### Web Applications
-- Modern web interfaces for statistical tools
-- API development for data services
-- Real-time data processing applications
-
-## Development Tools
-
-### Version Control
-- **Git**: Source code management
-- **GitHub**: Code hosting and collaboration
-
-### Documentation
-- **Quarto**: Scientific and technical publishing
-- **R Markdown**: Reproducible research
-- **Jupyter**: Interactive documentation
-
-## Cloud and Deployment
-
-### Cloud Platforms
-- **AWS**: Cloud computing services
-- **Google Cloud**: Data processing and storage
-- **Azure**: Microsoft cloud platform
-
-### Containerization
-- **Docker**: Application containerization
-- **Kubernetes**: Container orchestration
+Volte em breve para ver as atualizações!
 
 ---
 

@@ -3,10 +3,3 @@ title: "Data"
 ---
 
 # Site em Construção 🚧
-
-Esta seção está sendo desenvolvida. Em breve você encontrará informações sobre:
-
-- **Analysis**: Análises de dados
-- **Visualizations**: Visualizações e gráficos
-
-Volte em breve para ver as atualizações! 

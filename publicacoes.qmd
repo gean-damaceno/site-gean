@@ -1,13 +1,9 @@
 ---
-title: "Academic"
+title: "Publications"
 ---
 
 # Site em Construção 🚧
 
-Esta seção está sendo desenvolvida. Em breve você encontrará informações sobre:
+Esta seção está sendo desenvolvida. Em breve você encontrará a lista das minhas publicações científicas.
 
-- **Publications**: Publicações científicas
-- **Tutorials**: Tutoriais e materiais didáticos
-- **Software**: Software desenvolvido
-
-Volte em breve para ver as atualizações! 
+Volte em breve para ver as atualizações!

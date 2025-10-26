@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./imagem_topo/logo_indexx.png" rel="icon" type="image/png">
+<link href="./logo_indexx.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -356,21 +356,10 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-networking" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Networking</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-networking">    
-        <li>
-    <a class="dropdown-item" href="./eventos.html">
- <span class="dropdown-text">Events</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./networking.html"> 
+<span class="menu-text">Networking</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./colaboracoes.html">
- <span class="dropdown-text">Collaborations</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -399,16 +388,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#scripts-e-códigos" id="toc-scripts-e-códigos" class="nav-link active" data-scroll-target="#scripts-e-códigos">Scripts e Códigos</a>
-  <ul class="collapse">
-  <li><a href="#scripts-r" id="toc-scripts-r" class="nav-link" data-scroll-target="#scripts-r">Scripts R</a></li>
-  <li><a href="#scripts-python" id="toc-scripts-python" class="nav-link" data-scroll-target="#scripts-python">Scripts Python</a></li>
-  <li><a href="#scripts-sql" id="toc-scripts-sql" class="nav-link" data-scroll-target="#scripts-sql">Scripts SQL</a></li>
-  <li><a href="#scripts-de-deploy" id="toc-scripts-de-deploy" class="nav-link" data-scroll-target="#scripts-de-deploy">Scripts de Deploy</a></li>
-  <li><a href="#organização-dos-scripts" id="toc-organização-dos-scripts" class="nav-link" data-scroll-target="#organização-dos-scripts">Organização dos Scripts</a></li>
-  <li><a href="#documentação" id="toc-documentação" class="nav-link" data-scroll-target="#documentação">Documentação</a></li>
-  <li><a href="#estatísticas" id="toc-estatísticas" class="nav-link" data-scroll-target="#estatísticas">Estatísticas</a></li>
-  </ul></li>
+  <li><a href="#site-em-construção" id="toc-site-em-construção" class="nav-link active" data-scroll-target="#site-em-construção">Site em Construção 🚧</a></li>
   </ul>
 </nav>
     </div>
@@ -435,160 +415,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="scripts-e-códigos" class="level2">
-<h2 class="anchored" data-anchor-id="scripts-e-códigos">Scripts e Códigos</h2>
-<section id="scripts-r" class="level3">
-<h3 class="anchored" data-anchor-id="scripts-r">Scripts R</h3>
-<section id="análise-exploratória" class="level4">
-<h4 class="anchored" data-anchor-id="análise-exploratória">Análise Exploratória</h4>
-<p><strong>Descrição</strong>: Scripts para análise inicial de dados.</p>
-<p><strong>Funcionalidades</strong>: - Estatísticas descritivas - Visualizações automáticas - Detecção de outliers - Análise de correlação</p>
-<p><strong>Arquivos</strong>: - <code>exploratory_analysis.R</code> - <code>data_cleaning.R</code> - <code>outlier_detection.R</code> - <code>correlation_analysis.R</code></p>
-</section>
-<section id="modelagem-estatística" class="level4">
-<h4 class="anchored" data-anchor-id="modelagem-estatística">Modelagem Estatística</h4>
-<p><strong>Descrição</strong>: Scripts para construção e validação de modelos.</p>
-<p><strong>Modelos</strong>: - Regressão linear - Regressão logística - Modelos mistos - Séries temporais</p>
-<p><strong>Arquivos</strong>: - <code>linear_regression.R</code> - <code>logistic_regression.R</code> - <code>mixed_models.R</code> - <code>time_series.R</code></p>
-</section>
-<section id="análise-espacial" class="level4">
-<h4 class="anchored" data-anchor-id="análise-espacial">Análise Espacial</h4>
-<p><strong>Descrição</strong>: Scripts para análise de dados geográficos.</p>
-<p><strong>Técnicas</strong>: - Autocorrelação espacial - Interpolação - Análise de clusters - Mapeamento</p>
-<p><strong>Arquivos</strong>: - <code>spatial_autocorrelation.R</code> - <code>kriging_interpolation.R</code> - <code>spatial_clustering.R</code> - <code>mapping.R</code></p>
-</section>
-</section>
-<section id="scripts-python" class="level3">
-<h3 class="anchored" data-anchor-id="scripts-python">Scripts Python</h3>
-<section id="automação-de-processos" class="level4">
-<h4 class="anchored" data-anchor-id="automação-de-processos">Automação de Processos</h4>
-<p><strong>Descrição</strong>: Scripts para automação de tarefas repetitivas.</p>
-<p><strong>Aplicações</strong>: - Download de dados - Processamento em lote - Geração de relatórios - Backup automático</p>
-<p><strong>Arquivos</strong>: - <code>data_download.py</code> - <code>batch_processing.py</code> - <code>report_generation.py</code> - <code>backup_automation.py</code></p>
-</section>
-<section id="análise-de-dados" class="level4">
-<h4 class="anchored" data-anchor-id="análise-de-dados">Análise de Dados</h4>
-<p><strong>Descrição</strong>: Scripts para análise avançada com Python.</p>
-<p><strong>Bibliotecas</strong>: - pandas: Manipulação de dados - numpy: Computação numérica - scipy: Estatística - scikit-learn: Machine learning</p>
-<p><strong>Arquivos</strong>: - <code>data_analysis.py</code> - <code>statistical_tests.py</code> - <code>machine_learning.py</code> - <code>data_visualization.py</code></p>
-</section>
-<section id="processamento-espacial" class="level4">
-<h4 class="anchored" data-anchor-id="processamento-espacial">Processamento Espacial</h4>
-<p><strong>Descrição</strong>: Scripts para análise geográfica com Python.</p>
-<p><strong>Ferramentas</strong>: - geopandas: Dados geoespaciais - rasterio: Imagens raster - shapely: Geometrias - folium: Mapas interativos</p>
-<p><strong>Arquivos</strong>: - <code>spatial_analysis.py</code> - <code>raster_processing.py</code> - <code>vector_analysis.py</code> - <code>interactive_maps.py</code></p>
-</section>
-</section>
-<section id="scripts-sql" class="level3">
-<h3 class="anchored" data-anchor-id="scripts-sql">Scripts SQL</h3>
-<section id="consultas-de-dados" class="level4">
-<h4 class="anchored" data-anchor-id="consultas-de-dados">Consultas de Dados</h4>
-<p><strong>Descrição</strong>: Scripts SQL para consulta e manipulação de dados.</p>
-<p><strong>Tipos</strong>: - Consultas SELECT - Inserção de dados - Atualização de registros - Criação de views</p>
-<p><strong>Arquivos</strong>: - <code>data_queries.sql</code> - <code>data_insertion.sql</code> - <code>data_updates.sql</code> - <code>view_creation.sql</code></p>
-</section>
-<section id="análise-espacial-1" class="level4">
-<h4 class="anchored" data-anchor-id="análise-espacial-1">Análise Espacial</h4>
-<p><strong>Descrição</strong>: Scripts SQL para análise espacial com PostGIS.</p>
-<p><strong>Funcionalidades</strong>: - Consultas espaciais - Análise de proximidade - Cálculo de áreas - Intersecções espaciais</p>
-<p><strong>Arquivos</strong>: - <code>spatial_queries.sql</code> - <code>proximity_analysis.sql</code> - <code>area_calculations.sql</code> - <code>spatial_intersections.sql</code></p>
-</section>
-</section>
-<section id="scripts-de-deploy" class="level3">
-<h3 class="anchored" data-anchor-id="scripts-de-deploy">Scripts de Deploy</h3>
-<section id="deploy-de-aplicações-shiny" class="level4">
-<h4 class="anchored" data-anchor-id="deploy-de-aplicações-shiny">Deploy de Aplicações Shiny</h4>
-<p><strong>Descrição</strong>: Scripts para deploy automático de aplicações.</p>
-<p><strong>Plataformas</strong>: - shinyapps.io - Shiny Server - Docker containers - AWS/GCP</p>
-<p><strong>Arquivos</strong>: - <code>deploy_shiny.R</code> - <code>docker_build.sh</code> - <code>aws_deploy.py</code> - <code>monitoring.R</code></p>
-</section>
-<section id="deploy-de-dashboards" class="level4">
-<h4 class="anchored" data-anchor-id="deploy-de-dashboards">Deploy de Dashboards</h4>
-<p><strong>Descrição</strong>: Scripts para deploy de dashboards web.</p>
-<p><strong>Tecnologias</strong>: - R Markdown - Quarto - HTML/CSS/JS - Servidores web</p>
-<p><strong>Arquivos</strong>: - <code>build_dashboard.R</code> - <code>deploy_web.py</code> - <code>nginx_config.sh</code> - <code>ssl_certificate.py</code></p>
-</section>
-</section>
-<section id="organização-dos-scripts" class="level3">
-<h3 class="anchored" data-anchor-id="organização-dos-scripts">Organização dos Scripts</h3>
-<section id="estrutura-de-diretórios" class="level4">
-<h4 class="anchored" data-anchor-id="estrutura-de-diretórios">Estrutura de Diretórios</h4>
-<pre><code>scripts/
-├── R/
-│   ├── analysis/
-│   ├── modeling/
-│   └── spatial/
-├── Python/
-│   ├── automation/
-│   ├── analysis/
-│   └── spatial/
-├── SQL/
-│   ├── queries/
-│   └── spatial/
-└── deploy/
-    ├── shiny/
-    └── web/</code></pre>
-</section>
-<section id="padrões-de-nomenclatura" class="level4">
-<h4 class="anchored" data-anchor-id="padrões-de-nomenclatura">Padrões de Nomenclatura</h4>
-<ul>
-<li><strong>Arquivos R</strong>: <code>function_name.R</code></li>
-<li><strong>Arquivos Python</strong>: <code>function_name.py</code></li>
-<li><strong>Arquivos SQL</strong>: <code>query_name.sql</code></li>
-<li><strong>Scripts Shell</strong>: <code>deploy_name.sh</code></li>
-</ul>
-</section>
-</section>
-<section id="documentação" class="level3">
-<h3 class="anchored" data-anchor-id="documentação">Documentação</h3>
-<section id="comentários" class="level4">
-<h4 class="anchored" data-anchor-id="comentários">Comentários</h4>
-<ul>
-<li><strong>R</strong>: <code># Comentários em linha</code></li>
-<li><strong>Python</strong>: <code># Comentários em linha</code></li>
-<li><strong>SQL</strong>: <code>-- Comentários em linha</code></li>
-</ul>
-</section>
-<section id="documentação-1" class="level4">
-<h4 class="anchored" data-anchor-id="documentação-1">Documentação</h4>
-<ul>
-<li><strong>README</strong>: Descrição geral</li>
-<li><strong>Requirements</strong>: Dependências</li>
-<li><strong>Examples</strong>: Exemplos de uso</li>
-<li><strong>Changelog</strong>: Histórico de mudanças</li>
-</ul>
-</section>
-</section>
-<section id="estatísticas" class="level3">
-<h3 class="anchored" data-anchor-id="estatísticas">Estatísticas</h3>
-<section id="scripts-desenvolvidos" class="level4">
-<h4 class="anchored" data-anchor-id="scripts-desenvolvidos">Scripts Desenvolvidos</h4>
-<ul>
-<li><strong>Total</strong>: 100+ scripts</li>
-<li><strong>R</strong>: 60 scripts</li>
-<li><strong>Python</strong>: 30 scripts</li>
-<li><strong>SQL</strong>: 10 scripts</li>
-</ul>
-</section>
-<section id="downloads" class="level4">
-<h4 class="anchored" data-anchor-id="downloads">Downloads</h4>
-<ul>
-<li><strong>GitHub</strong>: 5,000+ downloads</li>
-<li><strong>CRAN</strong>: 2,000+ downloads</li>
-<li><strong>PyPI</strong>: 1,000+ downloads</li>
-</ul>
-</section>
-<section id="qualidade" class="level4">
-<h4 class="anchored" data-anchor-id="qualidade">Qualidade</h4>
-<ul>
-<li><strong>Testes</strong>: 90% testados</li>
-<li><strong>Documentação</strong>: 100% documentados</li>
-<li><strong>Licença</strong>: MIT License</li>
-</ul>
+<section id="site-em-construção" class="level1">
+<h1>Site em Construção 🚧</h1>
+<p>Esta seção está sendo desenvolvida. Em breve você encontrará os scripts e códigos que utilizei em minhas análises.</p>
+<p>Volte em breve para ver as atualizações!</p>
 
 
-</section>
-</section>
 </section>
 
 </main> <!-- /main -->
